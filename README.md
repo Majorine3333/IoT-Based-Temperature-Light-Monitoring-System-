@@ -16,6 +16,9 @@ Real-time monitoring of:
 - View historical sensor data.
 - Add new smart nodes and assign descriptive names.
 - View data submitted by any specific smart node.
+**Data Analysis**
+  - using two machine learning models, a predictive analysis was carried out.
+
 **Smart Object Features:**
 - LCD displays real-time sensor values and device IP.
 - Built-in web portal for direct interaction (via phone or PC).
